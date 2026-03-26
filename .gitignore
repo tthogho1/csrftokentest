@@ -1,0 +1,25 @@
+# Excluded folders and files
+frontend_js/
+features/
+specification_sample.txt
+EARS.txt
+
+# Node.js
+node_modules/
+dist/
+.env
+.env.local
+
+# Java/Maven
+backend/target/
+*.class
+*.jar
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
