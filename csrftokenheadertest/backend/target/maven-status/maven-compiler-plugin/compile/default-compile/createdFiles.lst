@@ -1,0 +1,4 @@
+com\example\csrf\config\SecurityConfig.class
+com\example\csrf\controller\SecureDataController.class
+com\example\csrf\CsrfApplication.class
+com\example\csrf\filter\CsrfTokenResponseHeaderFilter.class

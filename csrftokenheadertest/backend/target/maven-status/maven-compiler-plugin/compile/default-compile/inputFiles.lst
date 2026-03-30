@@ -1,0 +1,4 @@
+C:\temp\SourceCode\csrftokentest\csrftokenheadertest\backend\src\main\java\com\example\csrf\config\SecurityConfig.java
+C:\temp\SourceCode\csrftokentest\csrftokenheadertest\backend\src\main\java\com\example\csrf\controller\SecureDataController.java
+C:\temp\SourceCode\csrftokentest\csrftokenheadertest\backend\src\main\java\com\example\csrf\CsrfApplication.java
+C:\temp\SourceCode\csrftokentest\csrftokenheadertest\backend\src\main\java\com\example\csrf\filter\CsrfTokenResponseHeaderFilter.java
