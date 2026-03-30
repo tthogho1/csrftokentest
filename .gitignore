@@ -1,9 +1,9 @@
 # Excluded folders and files
 frontend_js/
-features/
 specification_sample.txt
 EARS.txt
-
+*.txt
+  
 # Node.js
 node_modules/
 dist/
